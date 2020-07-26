@@ -2,9 +2,9 @@
 
 namespace Tests\Feature;
 
-use App\Product;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
+use App\Product;
 
 class ProductControllerTest extends TestCase
 {
